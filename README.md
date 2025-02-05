@@ -4,14 +4,14 @@
   I'm <span style="font-size: 2em;">Dinesh Pandikona</span>
 </h3>
 
-- **Functional Programming Expertise**: Proficient in Elixir, with a strong foundation in functional programming principles.
-- **Object-Oriented Programming Expertise**:  Proficient in Python, with a strong foundation in OOP principles
-- **Full-Stack Development**: Flexible in building full-stack applications, including expertise in JS-based technologies, Python, REST, and GraphQL.
-- **Distributed Systems**: Knowledgeable in distributed systems and various database architectures.
-- **Project Management & CI/CD**: Proficient in Jira, Confluence, and GitHub Workflows for project management and CI/CD pipelines.
-- **Continuous Learning**: Eager to delve more into Rust and Elixir, and open to exploring any tech stack that effectively solves the problem.
+Rust + Elixir Enthusiast | Distributed Systems Explorer | Full-Stack Builder
 
-
+- 💡 Functional & OOP – Elixir for FP, Python for OOP
+- 🌍 Full-Stack & APIs – JS, Python, REST, GraphQL
+- ⚡ Distributed Systems – Databases, Scaling, Resilience
+- 🛠 DevOps & CI/CD – GitHub Actions, Jira, Confluence
+- 📚 Always Learning – Deep diving into Rust & Elixir
+- 🔹 Minimalist | Pragmatic | Code that just works
 <h1></h1>
 
 <div align="center">
